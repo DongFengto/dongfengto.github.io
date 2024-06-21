@@ -2,6 +2,9 @@
 main:
   - title: "简历"
     url: /assets/Curriculum_Vitae.pdf
+
+  - title: "本科毕业设计"
+    url: /assets/graduation_work.pdf
     
   - # title: "Publications"
     # url: /publications/
