@@ -25,3 +25,5 @@ redirect_from:
   - [财新周刊｜非典型的猴痘疫情](https://weekly.caixin.com/2022-08-06/101922931.html)
 - 2021.6-2021.8：北京大爱清尘公益基金会，实习生
   - [一个尘肺家庭的孩子，要如何逃出命运？](https://mp.weixin.qq.com/s/90f6Pw9kTWOC8RpirwMVMQ)
+- 2020.4-2020.8: 故事FM，实习生
+  - [第一批 90 后已经在筹备养老了](https://mp.weixin.qq.com/s/bg0qkWc5SWiiz8n1ETXjxw)
