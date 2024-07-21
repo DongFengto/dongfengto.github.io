@@ -3,6 +3,9 @@ main:
   - title: "简历"
     url: /assets/Curriculum_Vitae.pdf
 
+  - title: "「然后」简要 PRD 文档"
+    url: /assets/Whatisnext_PRD.pdf
+  
   - title: "本科毕业设计"
     url: /assets/graduation_work.pdf
     
