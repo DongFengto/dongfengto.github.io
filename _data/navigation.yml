@@ -7,7 +7,7 @@ main:
     url: /assets/Whatisnext_PRD.pdf
   
   - title: "本科毕业设计"
-    url: /assets/graduation_work.pdf
+    url: /assets/graduation_work.pdf #文件名如果有空格，无法链接过来
     
   - # title: "Publications"
     # url: /publications/
