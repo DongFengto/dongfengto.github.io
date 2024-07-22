@@ -22,7 +22,7 @@ redirect_from:
   - [雪落西二旗](https://mp.weixin.qq.com/s/JRrbwFOzC4Ylca4Q_pPTUg)
   - [带“泡泡宝贝”大胆往前走](https://mp.weixin.qq.com/s/_xhvB3PllEmdg7nUraKNhA)
 - 2022.5-2022.8：财新传媒，环境与科学组，实习生
-  - [财新周刊｜非典型的猴痘疫情](../assets/Atypical monkeypox outbreak_work.pdf)
+  - [财新周刊|非典型的猴痘疫情](assets/monkeypox_work.pdf)
 - 2021.6-2021.8：北京大爱清尘公益基金会，实习生
   - [一个尘肺家庭的孩子，要如何逃出命运？](https://mp.weixin.qq.com/s/90f6Pw9kTWOC8RpirwMVMQ)
 - 2020.4-2020.8: 故事FM，实习生
