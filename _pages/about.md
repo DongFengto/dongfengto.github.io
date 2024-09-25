@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-你好，我叫梁子，今年10月我将从[香港中文大学新闻与传播学院]((https://www.com.cuhk.edu.hk/))毕业。目前我正在寻找一份产品经理实习，你可以在这里找到我的简历：[梁子_简历](../assets/Curriculum_Vitae_PM.pdf)。
+你好，我叫梁子，今年11月我将从[香港中文大学新闻与传播学院]((https://www.com.cuhk.edu.hk/))毕业。目前我正在寻找一份媒体/品牌工作，你可以在这里找到我的简历：[梁子_简历](../assets/Curriculum_Vitae_PM.pdf)。
 如果有任何机会，请通过邮箱：**591883117@qq.com** 或是微信: **591883117** 联系我！
 
 ## 教育经历
